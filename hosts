@@ -115,6 +115,12 @@
 204.12.192.219 fitbit-pa.googleapis.com
 204.12.192.219 fitbitvestibuleshim-pa.googleapis.com
 204.12.192.219 fitbit.google.com
+185.246.223.127 4pda.to
+45.81.252.72 cs11a0a.4pda.ws
+185.234.59.26 cs7f6c.4pda.ws
+217.182.194.171 cs4a0d.4pda.ws
+141.94.143.110 cs3b2e.4pda.ws
+54.36.104.75 cs2c9f.4pda.ws
 204.12.192.222 claude.ai
 204.12.192.220 console.anthropic.com
 204.12.192.222 www.notion.so
@@ -130,6 +136,7 @@
 45.95.233.23 www.dyson.com
 45.95.233.23 www.dyson.fr
 45.95.233.23 usher.ttvnw.net
+64.188.98.242 api.manus.im
 0.0.0.0 only-fans.uk
 0.0.0.0 only-fans.me
 0.0.0.0 onlyfans.wtf
